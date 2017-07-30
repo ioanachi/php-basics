@@ -13,3 +13,4 @@ foreach ($arr as $key => $value) {
 }
 // echo "<pre>";
 var_dump($arr);
+echo "testing";
