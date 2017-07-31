@@ -21,13 +21,13 @@ $list = [
 // 		}
 
 
-for ($i=0; $i < count($list); $i++)
-	{
-echo $list[$i]['nume']." ".",".$list[$i]['prenume']."<br>";
-}
-
-
-
-
-
+//for ($i=0; $i < count($list); $i++)
+//	{
+//echo $list[$i]['nume']." "."  ".$list[$i]['prenume']."<br>";
+//}
+//foreach ($list as $key => $value) {
+ //echo $value;
+//}
+//}
+var_dump($list);
 ?>
