@@ -5,7 +5,7 @@ $arr = ["asd","sdf","aaa","asd","sdf","aaa","asd","sdf","aaa",
 
 
 for ($i=0; $i < count($arr); $i++) {
-  // echo $arr[$i].",";
+   echo $arr[$i].",";
 }
 
 foreach ($arr as $key => $value) {
@@ -13,3 +13,4 @@ foreach ($arr as $key => $value) {
 }
 // echo "<pre>";
 var_dump($arr);
+
