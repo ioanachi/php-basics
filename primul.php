@@ -61,4 +61,13 @@
 //     break;
 // }
 
+
+
+
+
+if (isset($_GET['nume'])) {
+ 	 echo $_GET['nume'];
+
+
+ } 
  ?>
