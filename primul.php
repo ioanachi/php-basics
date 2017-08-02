@@ -65,9 +65,9 @@
 
 
 
-if (isset($_GET['nume'])) {
- 	 echo $_GET['nume'];
+// if (isset($_GET['nume'])) {
+ 	 // echo $_GET['nume'];
 
 
- } 
+ // } 
  ?>
