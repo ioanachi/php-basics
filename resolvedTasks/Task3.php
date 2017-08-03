@@ -10,16 +10,16 @@ if (isset($_GET["B"])) {
 }
 if (($nr1/$nr2)%2 === 0) {
 	echo 'Bun!';
-
+}
 	if (($nr2/$nr1)%2 === 0) {
 	echo 'Bun si asa';
-
+}
 if (($nr2-$nr1) === ($nr1/$nr2)) {
-	echo 'Foarte Bun';
+	echo 'Foarte Bun';}
 if ($nr1 === 0) {
-	echo 'A e gol';
+	echo 'A e gol';}
 if ($nr2 === 0) {
-	echo 'B e gol';
+	echo 'B e gol';}
 ?>
 <!DOCTYPE html>
 <html>
