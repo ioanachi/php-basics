@@ -1,4 +1,4 @@
-# Task 3
+# Textbox magic
 
 * 2 textboxuri A si B
 * 1 buton de submit
