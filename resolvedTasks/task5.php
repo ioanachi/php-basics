@@ -20,9 +20,6 @@ TASK:
 Create 1 array with values from 3 to 10, in both ways; You can do this manually, no need for a loop or a function use.
 */
 $arrA = [3,4,5,6,7,8,9,10];
-foreach ($arrA as $key => $value) {
-	echo $value;
-}
 
 $arrA =  array(3,4,5,6,7,8,9,10);
 ?>
