@@ -4,11 +4,11 @@ You remember the select html Field:
 
 ``` <select name="my-select">```
 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```<option value="1">First Value</option>```
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```	<option value="2">Second Value</option>```
+```<option value="1">First Value</option>```
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```<option value="3">Whatever</option>```
+```<option value="2">Second Value</option>```
+
+```<option value="3">Whatever</option>```
 
 ```</select>```
 
