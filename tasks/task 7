@@ -1,0 +1,5 @@
+# Open file, read contents
+
+* Open the ceva.txt file that should exist. 
+* Store it's contents in a variable
+* Show variable content on the browser screen
