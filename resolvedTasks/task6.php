@@ -1,7 +1,7 @@
 <?php
 //the array you will use
-$numbers = ['a','b','c','asd','mara','x'];
-while($i<= length($numbers)){
+$numbers = [1,2,3,5,10,56,456];
+foreach($numbers as $key=>$value){
   //WRITE YOUR CODE HERE (as per task requirements
   $i++;
 }
