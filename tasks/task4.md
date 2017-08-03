@@ -1,11 +1,15 @@
-#Dynamic Select
+# Dynamic Select
 
 You remember the select html Field:
 
 ``` <select name="my-select">```
+
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```<option value="1">First Value</option>```
+	
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```	<option value="2">Second Value</option>```
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```<option value="3">Whatever</option>```
+
 ```</select>```
 
 Use te knowledge you gained in the task inside the file integrarihtmlsiphp.php and do the following:
