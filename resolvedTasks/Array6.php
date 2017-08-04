@@ -14,17 +14,17 @@ You need to show the values of the array, separated by a ```-```
 
 
 you will have task7.php available in the resolvedTasks Directory with pre-written code and coments on where to write your code for your task
+
+
+# Arrays part 6
+
+Exactly like task 7 but with a **for** loop (not foreach)
 */
 
 //the array you will use
 $numbers = ['a','b','c','asd','mara','x'];
-
-echo $numbers[0];
-$i = 0;
-while($i< count($numbers)){
-echo $numbers[$i];
-
-  $i++;
+$slot = count($numbers);
+for ($i=0; $i < $slot; $i++) { 
+	echo $numbers[$i];
 }
-
 ?>
