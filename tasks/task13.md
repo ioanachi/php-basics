@@ -11,5 +11,7 @@ Find a way to turn that into
 ```[1,2,3,4,5,6,7,8,9,10,11]```
 
 Basically, you have to sort the array contents.
+
 **You don't have to output anything and show on the screen. Just have $arrx be sorted like above.**
+
 Good luck!
