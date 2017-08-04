@@ -1,0 +1,28 @@
+<?php
+/*# arrays and variable values
+
+```
+$a ='eu';
+$b ='stiu';
+$c ='php';
+```
+apoi putem atribui variabile cand creem un array astfel:
+```$arr = [$a,$b,$c];```
+Valoarea variabilei devine valoarea array-ului
+
+Ce o sa afiseze ``` echo $arr[0];``` ?
+Ce o sa afiseze ``` echo $arr[2];``` ?
+Ce o sa afiseze ``` echo $arr[1];``` ?
+
+**TASK**
+Creeaza array-ul ca si in exemplul de mai sus si afiseaza:
+
+```eu php stiu```*/
+
+$a = 'eu';
+$b = 'php';
+$c = "stiu";
+$array = [$a,$b,$c];
+echo $array[0].' '.$array[1].' '.$array[2]." :P";
+
+?>
