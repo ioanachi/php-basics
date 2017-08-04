@@ -39,11 +39,11 @@ Ioana
 */
 
 $arr = ['Name'=>'Chichernea','Surname'=>'Ioana','Age'=>'30'];
+$arr['Surname'] = 'Turcu';
 echo $arr['Name'].'<br>';
 echo $arr['Surname']."<br>";
 echo $arr['Age']."<br>";
-
-
-
+$arr = strtoupper($arr['Name']);
+echo $arr;
 
 ?>
