@@ -20,9 +20,8 @@ Creeaza array-ul ca si in exemplul de mai sus si afiseaza:
 ```eu php stiu```*/
 
 $a = 'eu';
-$b = 'php';
-$c = "stiu";
+$b = 'stiu';
+$c = 'php';
 $array = [$a,$b,$c];
-echo $array[0].' '.$array[1].' '.$array[2]." :P";
-
+echo $array[0].' '.$array[2].' '.$array[1];
 ?>
