@@ -34,18 +34,22 @@ Check out task 14.php to see the code you will have to add to solve both parts.
 $arr = ['a','b','c'];
 array_push($arr, 'd');
 $var = [$arr, 'd'];
-var_dump($var);
+echo "<pre>".print_r($var);
+"<br>";
+//var_dump($var);
+//echo $var[0];
 
 
 // Just adding some space between the output of parts of this task:
-/*echo "<br/><br/>";
+//echo "<br/><br/>";
 
 $arr = ['a','b','c'];
 $arrB = ['d','e','f'];
+$arrC = array_merge($arr,$arrB);
 
 // this must output a-b-c-d-e-f
 foreach($arrC as $key => $value){
-  echo $value."-";
+
+echo $value."-";
 }
-888*/
 ?>
