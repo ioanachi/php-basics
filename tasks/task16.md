@@ -11,3 +11,10 @@ and
 ```$Impare = [];```
 
 programatic, pune numerele pare din ```$arrX``` in ```$Pare``` si numerele impare in ```$impare```
+
+rezultatul trebuie sa arate asa:
+
+```
+$Pare = [2,4,6,8,10];
+$impare = [1,3,5,7,9];
+```
