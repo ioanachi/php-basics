@@ -22,5 +22,8 @@ USe task17.php as a already prewritten file
 
 $ArrX = ['Mara','are','mere','multe'];
 
+foreach ($ArrX as $key => $value) {
+	echo "<p>".$value."</p>";
+}
 
 ?>
