@@ -27,8 +27,11 @@ $impare = [];
 //var_dump($arrX);
 $c = [];
 $i = 0;
+<<<<<<< HEAD
 
 /*
+=======
+>>>>>>> 5dab7c4d2e98b7b5609bb1a77b359131924763d9
 $a = count($arrX)-1;
 while ($i<=$a) {
 if ($arrX[$i]%2 == 0) {
@@ -41,7 +44,10 @@ $i++;
 
 var_dump($pare);
 var_dump($impare);
+<<<<<<< HEAD
 */
+=======
+>>>>>>> 5dab7c4d2e98b7b5609bb1a77b359131924763d9
 
 
 
@@ -50,6 +56,7 @@ var_dump($impare);
 
 
 
+<<<<<<< HEAD
 foreach ($arrX as $key => $value) {
 
 $d = $value%2;
@@ -70,6 +77,23 @@ print_r($pare);
 print_r($impare);
 //var_dump($pare);
 //var_dump($impare);
+=======
+
+
+/*foreach ($arrX as $key => $value) {
+ $value%2 == 0;
+	  array_push($pare, $value);
+}
+
+
+foreach ($arrX as $key => $value) {
+$c = $value%2;
+	 $c !== 0;
+	  array_push($impare, $c);
+}
+
+*/
+>>>>>>> 5dab7c4d2e98b7b5609bb1a77b359131924763d9
 
 
 
