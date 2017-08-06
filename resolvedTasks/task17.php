@@ -21,9 +21,22 @@ USe task17.php as a already prewritten file
 */
 
 $ArrX = ['Mara','are','mere','multe'];
-
+/*
 foreach ($ArrX as $key => $value) {
 	echo "<p>".$value."</p>";
 }
+*/
+$i = 0;
+while ( $i<= count($ArrX)-1) {
+
+	?>
+	<p><?php echo $ArrX[$i];?></p>
+	<?php
+	$i++;
+}
+
+
+
+
 
 ?>
