@@ -8,7 +8,7 @@ Create a function that has a variable that will contain the string. The function
 
 If I call the function that you create like this:
 
-```$result = yourFunction('a,b,c');```
+```$result = yourFunction('abc');```
 ```$result``` will be: ```['a','b','c']```
 
-You must create the function ```stringToArray``` and return the array object after you convert it, the result being the above example.
+You must create the function ```stringToArray``` make the functionality to return the array object after you convert it, the result being the above example.
