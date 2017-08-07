@@ -17,13 +17,13 @@ If I call the function that you create like this:
 You must create the function ```stringToArray``` make the functionality to return the array object after you convert it, the result being the above example.
 
 */
-function result($a){
+function yourFunction($a){
   $b = str_split($a);
   return $b;
 }
 
 
-$x = result('abcdefghijklmnopqrstuvxyz');
+$x = yourFunction('abcdefghijklmnopqrstuvxyz');
 echo "<pre>";
 print_r($x);
 
